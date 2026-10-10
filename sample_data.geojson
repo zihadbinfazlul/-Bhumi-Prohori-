@@ -1,0 +1,5549 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "plot_no": "101",
+        "khatian_no": "2101",
+        "owner_name": "Abdul Karim",
+        "owner_name_bn": "আব্দুল করিম",
+        "mouza": "Mirpur",
+        "jl_no": "1",
+        "khatian_type": "RS",
+        "land_type": "নাল / ভিটি",
+        "district": "Dhaka",
+        "declared_area": "0.10 Acre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              90.4125,
+              23.8103
+            ],
+            [
+              90.41449999999999,
+              23.8103
+            ],
+            [
+              90.41449999999999,
+              23.8123
+            ],
+            [
+              90.4125,
+              23.8123
+            ],
+            [
+              90.4125,
+              23.8103
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "plot_no": "102",
+        "khatian_no": "2102",
+        "owner_name": "Rahima Begum",
+        "owner_name_bn": "রহিমা বেগম",
+        "mouza": "Mirpur",
+        "jl_no": "1",
+        "khatian_type": "RS",
+        "land_type": "নাল / ভিটি",
+        "district": "Dhaka",
+        "declared_area": "0.15 Acre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              90.4135,
+              23.811300000000003
+            ],
+            [
+              90.4155,
+              23.811300000000003
+            ],
+            [
+              90.4155,
+              23.8133
+            ],
+            [
+              90.4135,
+              23.8133
+            ],
+            [
+              90.4135,
+              23.811300000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "plot_no": "103",
+        "khatian_no": "2103",
+        "owner_name": "Rahima Begum",
+        "owner_name_bn": "রহিমা বেগম",
+        "mouza": "Tongi",
+        "jl_no": "2",
+        "khatian_type": "RS",
+        "land_type": "নাল / ভিটি",
+        "district": "Gazipur",
+        "declared_area": "0.10 Acre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              90.388,
+              23.9888
+            ],
+            [
+              90.39,
+              23.9888
+            ],
+            [
+              90.39,
+              23.9908
+            ],
+            [
+              90.388,
+              23.9908
+            ],
+            [
+              90.388,
+              23.9888
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "plot_no": "104",
+        "khatian_no": "2104",
+        "owner_name": "Kamal Hossain",
+        "owner_name_bn": "কামাল হোসেন",
+        "mouza": "Tongi",
+        "jl_no": "2",
+        "khatian_type": "RS",
+        "land_type": "নাল / ভিটি",
+        "district": "Gazipur",
+        "declared_area": "0.15 Acre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              90.38900000000001,
+              23.989800000000002
+            ],
+            [
+              90.391,
+              23.989800000000002
+            ],
+            [
+              90.391,
+              23.9918
+            ],
+            [
+              90.38900000000001,
+              23.9918
+            ],
+            [
+              90.38900000000001,
+              23.989800000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "plot_no": "105",
+        "khatian_no": "2105",
+        "owner_name": "Kamal Hossain",
+        "owner_name_bn": "কামাল হোসেন",
+        "mouza": "Siddhirganj",
+        "jl_no": "3",
+        "khatian_type": "RS",
+        "land_type": "নাল / ভিটি",
+        "district": "Narayanganj",
+        "declared_area": "0.10 Acre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              90.5,
+              23.6238
+            ],
+            [
+              90.502,
+              23.6238
+            ],
+            [
+              90.502,
+              23.625799999999998
+            ],
+            [
+              90.5,
+              23.625799999999998
+            ],
+            [
+              90.5,
+              23.6238
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "plot_no": "106",
+        "khatian_no": "2106",
+        "owner_name": "Ekramul Haq",
+        "owner_name_bn": "একরামুল হক",
+        "mouza": "Siddhirganj",
+        "jl_no": "3",
+        "khatian_type": "RS",
+        "land_type": "নাল / ভিটি",
+        "district": "Narayanganj",
+        "declared_area": "0.15 Acre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              90.501,
+              23.6248
+            ],
+            [
+              90.503,
+              23.6248
+            ],
+            [
+              90.503,
+              23.6268
+            ],
+            [
+              90.501,
+              23.6268
+            ],
+            [
+              90.501,
+              23.6248
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "plot_no": "107",
+        "khatian_no": "2107",
+        "owner_name": "Ekramul Haq",
+        "owner_name_bn": "একরামুল হক",
+        "mouza": "Sadar",
+        "jl_no": "4",
+        "khatian_type": "RS",
+        "land_type": "নাল / ভিটি",
+        "district": "Tangail",
+        "declared_area": "0.10 Acre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              89.9167,
+              24.2513
+            ],
+            [
+              89.9187,
+              24.2513
+            ],
+            [
+              89.9187,
+              24.2533
+            ],
+            [
+              89.9167,
+              24.2533
+            ],
+            [
+              89.9167,
+              24.2513
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "plot_no": "108",
+        "khatian_no": "2108",
+        "owner_name": "Absar Ali",
+        "owner_name_bn": "আবছার আলী",
+        "mouza": "Sadar",
+        "jl_no": "4",
+        "khatian_type": "RS",
+        "land_type": "নাল / ভিটি",
+        "district": "Tangail",
+        "declared_area": "0.15 Acre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              89.91770000000001,
+              24.2523
+            ],
+            [
+              89.9197,
+              24.2523
+            ],
+            [
+              89.9197,
+              24.2543
+            ],
+            [
+              89.91770000000001,
+              24.2543
+            ],
+            [
+              89.91770000000001,
+              24.2523
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "plot_no": "109",
+        "khatian_no": "2109",
+        "owner_name": "Absar Ali",
+        "owner_name_bn": "আবছার আলী",
+        "mouza": "Goalchamat",
+        "jl_no": "5",
+        "khatian_type": "RS",
+        "land_type": "নাল / ভিটি",
+        "district": "Faridpur",
+        "declared_area": "0.10 Acre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              89.8406,
+              23.607
+            ],
+            [
+              89.84259999999999,
+              23.607
+            ],
+            [
+              89.84259999999999,
+              23.608999999999998
+            ],
+            [
+              89.8406,
+              23.608999999999998
+            ],
+            [
+              89.8406,
+              23.607
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "plot_no": "110",
+        "khatian_no": "2110",
+        "owner_name": "Mahatab Uddin",
+        "owner_name_bn": "মাহাতাব উদ্দিন",
+        "mouza": "Goalchamat",
+        "jl_no": "5",
+        "khatian_type": "RS",
+        "land_type": "নাল / ভিটি",
+        "district": "Faridpur",
+        "declared_area": "0.15 Acre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              89.8416,
+              23.608
+            ],
+            [
+              89.8436,
+              23.608
+            ],
+            [
+              89.8436,
+              23.61
+            ],
+            [
+              89.8416,
+              23.61
+            ],
+            [
+              89.8416,
+              23.608
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "plot_no": "111",
+        "khatian_no": "2111",
+        "owner_name": "Mahatab Uddin",
+        "owner_name_bn": "মাহাতাব উদ্দিন",
+        "mouza": "Singair",
+        "jl_no": "6",
+        "khatian_type": "RS",
+        "land_type": "নাল / ভিটি",
+        "district": "Manikganj",
+        "declared_area": "0.10 Acre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              90.0003,
+              23.8617
+            ],
+            [
+              90.00229999999999,
+              23.8617
+            ],
+            [
+              90.00229999999999,
+              23.863699999999998
+            ],
+            [
+              90.0003,
+              23.863699999999998
+            ],
+            [
+              90.0003,
+              23.8617
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "plot_no": "112",
+        "khatian_no": "2112",
+        "owner_name": "Sultan Mahmud",
+        "owner_name_bn": "সুলতান মাহমুদ",
+        "mouza": "Singair",
+        "jl_no": "6",
+        "khatian_type": "RS",
+        "land_type": "নাল / ভিটি",
+        "district": "Manikganj",
+        "declared_area": "0.15 Acre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              90.0013,
+              23.8627
+            ],
+            [
+              90.0033,
+              23.8627
+            ],
+            [
+              90.0033,
+              23.8647
+            ],
+            [
+              90.0013,
+              23.8647
+            ],
+            [
+              90.0013,
+              23.8627
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "plot_no": "113",
+        "khatian_no": "2113",
+        "owner_name": "Sultan Mahmud",
+        "owner_name_bn": "সুলতান মাহমুদ",
+        "mouza": "Garia",
+        "jl_no": "7",
+        "khatian_type": "RS",
+        "land_type": "নাল / ভিটি",
+        "district": "Munshiganj",
+        "declared_area": "0.10 Acre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              90.5305,
+              23.5422
+            ],
+            [
+              90.5325,
+              23.5422
+            ],
+            [
+              90.5325,
+              23.5442
+            ],
+            [
+              90.5305,
+              23.5442
+            ],
+            [
+              90.5305,
+              23.5422
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "plot_no": "114",
+        "khatian_no": "2114",
+        "owner_name": "Nazmul Islam",
+        "owner_name_bn": "নাজমুল ইসলাম",
+        "mouza": "Garia",
+        "jl_no": "7",
+        "khatian_type": "RS",
+        "land_type": "নাল / ভিটি",
+        "district": "Munshiganj",
+        "declared_area": "0.15 Acre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              90.53150000000001,
+              23.543200000000002
+            ],
+            [
+              90.5335,
+              23.543200000000002
+            ],
+            [
+              90.5335,
+              23.5452
+            ],
+            [
+              90.53150000000001,
+              23.5452
+            ],
+            [
+              90.53150000000001,
+              23.543200000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "plot_no": "115",
+        "khatian_no": "2115",
+        "owner_name": "Nazmul Islam",
+        "owner_name_bn": "নাজমুল ইসলাম",
+        "mouza": "Panchdona",
+        "jl_no": "8",
+        "khatian_type": "RS",
+        "land_type": "নাল / ভিটি",
+        "district": "Narsingdi",
+        "declared_area": "0.10 Acre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              90.7201,
+              23.9193
+            ],
+            [
+              90.7221,
+              23.9193
+            ],
+            [
+              90.7221,
+              23.9213
+            ],
+            [
+              90.7201,
+              23.9213
+            ],
+            [
+              90.7201,
+              23.9193
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "plot_no": "116",
+        "khatian_no": "2116",
+        "owner_name": "Abdul Karim",
+        "owner_name_bn": "আব্দুল করিম",
+        "mouza": "Panchdona",
+        "jl_no": "8",
+        "khatian_type": "RS",
+        "land_type": "নাল / ভিটি",
+        "district": "Narsingdi",
+        "declared_area": "0.15 Acre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              90.7211,
+              23.9203
+            ],
+            [
+              90.7231,
+              23.9203
+            ],
+            [
+              90.7231,
+              23.9223
+            ],
+            [
+              90.7211,
+              23.9223
+            ],
+            [
+              90.7211,
+              23.9203
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "plot_no": "117",
+        "khatian_no": "2117",
+        "owner_name": "Abdul Karim",
+        "owner_name_bn": "আব্দুল করিম",
+        "mouza": "Pangsha",
+        "jl_no": "9",
+        "khatian_type": "RS",
+        "land_type": "নাল / ভিটি",
+        "district": "Rajbari",
+        "declared_area": "0.10 Acre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              89.6444,
+              23.7574
+            ],
+            [
+              89.6464,
+              23.7574
+            ],
+            [
+              89.6464,
+              23.7594
+            ],
+            [
+              89.6444,
+              23.7594
+            ],
+            [
+              89.6444,
+              23.7574
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "plot_no": "118",
+        "khatian_no": "2118",
+        "owner_name": "Rahima Begum",
+        "owner_name_bn": "রহিমা বেগম",
+        "mouza": "Pangsha",
+        "jl_no": "9",
+        "khatian_type": "RS",
+        "land_type": "নাল / ভিটি",
+        "district": "Rajbari",
+        "declared_area": "0.15 Acre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              89.64540000000001,
+              23.7584
+            ],
+            [
+              89.6474,
+              23.7584
+            ],
+            [
+              89.6474,
+              23.7604
+            ],
+            [
+              89.64540000000001,
+              23.7604
+            ],
+            [
+              89.64540000000001,
+              23.7584
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "plot_no": "119",
+        "khatian_no": "2119",
+        "owner_name": "Rahima Begum",
+        "owner_name_bn": "রহিমা বেগম",
+        "mouza": "Tungipara",
+        "jl_no": "10",
+        "khatian_type": "RS",
+        "land_type": "নাল / ভিটি",
+        "district": "Gopalganj",
+        "declared_area": "0.10 Acre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              89.8167,
+              22.9833
+            ],
+            [
+              89.81869999999999,
+              22.9833
+            ],
+            [
+              89.81869999999999,
+              22.9853
+            ],
+            [
+              89.8167,
+              22.9853
+            ],
+            [
+              89.8167,
+              22.9833
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "plot_no": "120",
+        "khatian_no": "2120",
+        "owner_name": "Kamal Hossain",
+        "owner_name_bn": "কামাল হোসেন",
+        "mouza": "Tungipara",
+        "jl_no": "10",
+        "khatian_type": "RS",
+        "land_type": "নাল / ভিটি",
+        "district": "Gopalganj",
+        "declared_area": "0.15 Acre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              89.8177,
+              22.9843
+            ],
+            [
+              89.8197,
+              22.9843
+            ],
+            [
+              89.8197,
+              22.9863
+            ],
+            [
+              89.8177,
+              22.9863
+            ],
+            [
+              89.8177,
+              22.9843
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "plot_no": "121",
+        "khatian_no": "2121",
+        "owner_name": "Kamal Hossain",
+        "owner_name_bn": "কামাল হোসেন",
+        "mouza": "Rajoir",
+        "jl_no": "11",
+        "khatian_type": "RS",
+        "land_type": "নাল / ভিটি",
+        "district": "Madaripur",
+        "declared_area": "0.10 Acre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              90.1896,
+              23.1641
+            ],
+            [
+              90.1916,
+              23.1641
+            ],
+            [
+              90.1916,
+              23.1661
+            ],
+            [
+              90.1896,
+              23.1661
+            ],
+            [
+              90.1896,
+              23.1641
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "plot_no": "122",
+        "khatian_no": "2122",
+        "owner_name": "Ekramul Haq",
+        "owner_name_bn": "একরামুল হক",
+        "mouza": "Rajoir",
+        "jl_no": "11",
+        "khatian_type": "RS",
+        "land_type": "নাল / ভিটি",
+        "district": "Madaripur",
+        "declared_area": "0.15 Acre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              90.1906,
+              23.165100000000002
+            ],
+            [
+              90.1926,
+              23.165100000000002
+            ],
+            [
+              90.1926,
+              23.1671
+            ],
+            [
+              90.1906,
+              23.1671
+            ],
+            [
+              90.1906,
+              23.165100000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "plot_no": "123",
+        "khatian_no": "2123",
+        "owner_name": "Ekramul Haq",
+        "owner_name_bn": "একরামুল হক",
+        "mouza": "Naria",
+        "jl_no": "12",
+        "khatian_type": "RS",
+        "land_type": "নাল / ভিটি",
+        "district": "Shariatpur",
+        "declared_area": "0.10 Acre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              90.4348,
+              23.2423
+            ],
+            [
+              90.43679999999999,
+              23.2423
+            ],
+            [
+              90.43679999999999,
+              23.2443
+            ],
+            [
+              90.4348,
+              23.2443
+            ],
+            [
+              90.4348,
+              23.2423
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "plot_no": "124",
+        "khatian_no": "2124",
+        "owner_name": "Absar Ali",
+        "owner_name_bn": "আবছার আলী",
+        "mouza": "Naria",
+        "jl_no": "12",
+        "khatian_type": "RS",
+        "land_type": "নাল / ভিটি",
+        "district": "Shariatpur",
+        "declared_area": "0.15 Acre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              90.4358,
+              23.2433
+            ],
+            [
+              90.4378,
+              23.2433
+            ],
+            [
+              90.4378,
+              23.2453
+            ],
+            [
+              90.4358,
+              23.2453
+            ],
+            [
+              90.4358,
+              23.2433
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "plot_no": "125",
+        "khatian_no": "2125",
+        "owner_name": "Absar Ali",
+        "owner_name_bn": "আবছার আলী",
+        "mouza": "Bhairab",
+        "jl_no": "13",
+        "khatian_type": "RS",
+        "land_type": "নাল / ভিটি",
+        "district": "Kishoreganj",
+        "declared_area": "0.10 Acre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              90.9812,
+              24.1804
+            ],
+            [
+              90.9832,
+              24.1804
+            ],
+            [
+              90.9832,
+              24.182399999999998
+            ],
+            [
+              90.9812,
+              24.182399999999998
+            ],
+            [
+              90.9812,
+              24.1804
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "plot_no": "126",
+        "khatian_no": "2126",
+        "owner_name": "Mahatab Uddin",
+        "owner_name_bn": "মাহাতাব উদ্দিন",
+        "mouza": "Bhairab",
+        "jl_no": "13",
+        "khatian_type": "RS",
+        "land_type": "নাল / ভিটি",
+        "district": "Kishoreganj",
+        "declared_area": "0.15 Acre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              90.9822,
+              24.1814
+            ],
+            [
+              90.9842,
+              24.1814
+            ],
+            [
+              90.9842,
+              24.1834
+            ],
+            [
+              90.9822,
+              24.1834
+            ],
+            [
+              90.9822,
+              24.1814
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "plot_no": "127",
+        "khatian_no": "2127",
+        "owner_name": "Mahatab Uddin",
+        "owner_name_bn": "মাহাতাব উদ্দিন",
+        "mouza": "Agrabad",
+        "jl_no": "14",
+        "khatian_type": "RS",
+        "land_type": "নাল / ভিটি",
+        "district": "Chattogram",
+        "declared_area": "0.10 Acre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              91.813,
+              22.3244
+            ],
+            [
+              91.815,
+              22.3244
+            ],
+            [
+              91.815,
+              22.3264
+            ],
+            [
+              91.813,
+              22.3264
+            ],
+            [
+              91.813,
+              22.3244
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "plot_no": "128",
+        "khatian_no": "2128",
+        "owner_name": "Sultan Mahmud",
+        "owner_name_bn": "সুলতান মাহমুদ",
+        "mouza": "Agrabad",
+        "jl_no": "14",
+        "khatian_type": "RS",
+        "land_type": "নাল / ভিটি",
+        "district": "Chattogram",
+        "declared_area": "0.15 Acre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              91.81400000000001,
+              22.325400000000002
+            ],
+            [
+              91.816,
+              22.325400000000002
+            ],
+            [
+              91.816,
+              22.3274
+            ],
+            [
+              91.81400000000001,
+              22.3274
+            ],
+            [
+              91.81400000000001,
+              22.325400000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "plot_no": "129",
+        "khatian_no": "2129",
+        "owner_name": "Sultan Mahmud",
+        "owner_name_bn": "সুলতান মাহমুদ",
+        "mouza": "Ramua",
+        "jl_no": "15",
+        "khatian_type": "RS",
+        "land_type": "নাল / ভিটি",
+        "district": "Cox's Bazar",
+        "declared_area": "0.10 Acre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              92.0058,
+              21.4272
+            ],
+            [
+              92.00779999999999,
+              21.4272
+            ],
+            [
+              92.00779999999999,
+              21.429199999999998
+            ],
+            [
+              92.0058,
+              21.429199999999998
+            ],
+            [
+              92.0058,
+              21.4272
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "plot_no": "130",
+        "khatian_no": "2130",
+        "owner_name": "Nazmul Islam",
+        "owner_name_bn": "নাজমুল ইসলাম",
+        "mouza": "Ramua",
+        "jl_no": "15",
+        "khatian_type": "RS",
+        "land_type": "নাল / ভিটি",
+        "district": "Cox's Bazar",
+        "declared_area": "0.15 Acre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              92.0068,
+              21.4282
+            ],
+            [
+              92.0088,
+              21.4282
+            ],
+            [
+              92.0088,
+              21.4302
+            ],
+            [
+              92.0068,
+              21.4302
+            ],
+            [
+              92.0068,
+              21.4282
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "plot_no": "131",
+        "khatian_no": "2131",
+        "owner_name": "Nazmul Islam",
+        "owner_name_bn": "নাজমুল ইসলাম",
+        "mouza": "Kandirpar",
+        "jl_no": "16",
+        "khatian_type": "RS",
+        "land_type": "নাল / ভিটি",
+        "district": "Cumilla",
+        "declared_area": "0.10 Acre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              91.1809,
+              23.4607
+            ],
+            [
+              91.18289999999999,
+              23.4607
+            ],
+            [
+              91.18289999999999,
+              23.462699999999998
+            ],
+            [
+              91.1809,
+              23.462699999999998
+            ],
+            [
+              91.1809,
+              23.4607
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "plot_no": "132",
+        "khatian_no": "2132",
+        "owner_name": "Abdul Karim",
+        "owner_name_bn": "আব্দুল করিম",
+        "mouza": "Kandirpar",
+        "jl_no": "16",
+        "khatian_type": "RS",
+        "land_type": "নাল / ভিটি",
+        "district": "Cumilla",
+        "declared_area": "0.15 Acre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              91.1819,
+              23.4617
+            ],
+            [
+              91.1839,
+              23.4617
+            ],
+            [
+              91.1839,
+              23.4637
+            ],
+            [
+              91.1819,
+              23.4637
+            ],
+            [
+              91.1819,
+              23.4617
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "plot_no": "133",
+        "khatian_no": "2133",
+        "owner_name": "Abdul Karim",
+        "owner_name_bn": "আব্দুল করিম",
+        "mouza": "Dagonbhuiyan",
+        "jl_no": "17",
+        "khatian_type": "RS",
+        "land_type": "নাল / ভিটি",
+        "district": "Feni",
+        "declared_area": "0.10 Acre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              91.3976,
+              23.0159
+            ],
+            [
+              91.39959999999999,
+              23.0159
+            ],
+            [
+              91.39959999999999,
+              23.017899999999997
+            ],
+            [
+              91.3976,
+              23.017899999999997
+            ],
+            [
+              91.3976,
+              23.0159
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "plot_no": "134",
+        "khatian_no": "2134",
+        "owner_name": "Rahima Begum",
+        "owner_name_bn": "রহিমা বেগম",
+        "mouza": "Dagonbhuiyan",
+        "jl_no": "17",
+        "khatian_type": "RS",
+        "land_type": "নাল / ভিটি",
+        "district": "Feni",
+        "declared_area": "0.15 Acre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              91.3986,
+              23.0169
+            ],
+            [
+              91.4006,
+              23.0169
+            ],
+            [
+              91.4006,
+              23.0189
+            ],
+            [
+              91.3986,
+              23.0189
+            ],
+            [
+              91.3986,
+              23.0169
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "plot_no": "135",
+        "khatian_no": "2135",
+        "owner_name": "Rahima Begum",
+        "owner_name_bn": "রহিমা বেগম",
+        "mouza": "Maijdee",
+        "jl_no": "18",
+        "khatian_type": "RS",
+        "land_type": "নাল / ভিটি",
+        "district": "Noakhali",
+        "declared_area": "0.10 Acre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              91.0995,
+              22.8696
+            ],
+            [
+              91.1015,
+              22.8696
+            ],
+            [
+              91.1015,
+              22.871599999999997
+            ],
+            [
+              91.0995,
+              22.871599999999997
+            ],
+            [
+              91.0995,
+              22.8696
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "plot_no": "136",
+        "khatian_no": "2136",
+        "owner_name": "Kamal Hossain",
+        "owner_name_bn": "কামাল হোসেন",
+        "mouza": "Maijdee",
+        "jl_no": "18",
+        "khatian_type": "RS",
+        "land_type": "নাল / ভিটি",
+        "district": "Noakhali",
+        "declared_area": "0.15 Acre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              91.10050000000001,
+              22.8706
+            ],
+            [
+              91.1025,
+              22.8706
+            ],
+            [
+              91.1025,
+              22.8726
+            ],
+            [
+              91.10050000000001,
+              22.8726
+            ],
+            [
+              91.10050000000001,
+              22.8706
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "plot_no": "137",
+        "khatian_no": "2137",
+        "owner_name": "Kamal Hossain",
+        "owner_name_bn": "কামাল হোসেন",
+        "mouza": "Raipur",
+        "jl_no": "19",
+        "khatian_type": "RS",
+        "land_type": "নাল / ভিটি",
+        "district": "Lakshmipur",
+        "declared_area": "0.10 Acre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              90.8282,
+              22.9447
+            ],
+            [
+              90.83019999999999,
+              22.9447
+            ],
+            [
+              90.83019999999999,
+              22.9467
+            ],
+            [
+              90.8282,
+              22.9467
+            ],
+            [
+              90.8282,
+              22.9447
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "plot_no": "138",
+        "khatian_no": "2138",
+        "owner_name": "Ekramul Haq",
+        "owner_name_bn": "একরামুল হক",
+        "mouza": "Raipur",
+        "jl_no": "19",
+        "khatian_type": "RS",
+        "land_type": "নাল / ভিটি",
+        "district": "Lakshmipur",
+        "declared_area": "0.15 Acre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              90.8292,
+              22.945700000000002
+            ],
+            [
+              90.8312,
+              22.945700000000002
+            ],
+            [
+              90.8312,
+              22.9477
+            ],
+            [
+              90.8292,
+              22.9477
+            ],
+            [
+              90.8292,
+              22.945700000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "plot_no": "139",
+        "khatian_no": "2139",
+        "owner_name": "Ekramul Haq",
+        "owner_name_bn": "একরামুল হক",
+        "mouza": "Ashuganj",
+        "jl_no": "20",
+        "khatian_type": "RS",
+        "land_type": "নাল / ভিটি",
+        "district": "Brahmanbaria",
+        "declared_area": "0.10 Acre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              91.0086,
+              24.0337
+            ],
+            [
+              91.0106,
+              24.0337
+            ],
+            [
+              91.0106,
+              24.0357
+            ],
+            [
+              91.0086,
+              24.0357
+            ],
+            [
+              91.0086,
+              24.0337
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "plot_no": "140",
+        "khatian_no": "2140",
+        "owner_name": "Absar Ali",
+        "owner_name_bn": "আবছার আলী",
+        "mouza": "Ashuganj",
+        "jl_no": "20",
+        "khatian_type": "RS",
+        "land_type": "নাল / ভিটি",
+        "district": "Brahmanbaria",
+        "declared_area": "0.15 Acre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              91.0096,
+              24.0347
+            ],
+            [
+              91.0116,
+              24.0347
+            ],
+            [
+              91.0116,
+              24.0367
+            ],
+            [
+              91.0096,
+              24.0367
+            ],
+            [
+              91.0096,
+              24.0347
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "plot_no": "141",
+        "khatian_no": "2141",
+        "owner_name": "Absar Ali",
+        "owner_name_bn": "আবছার আলী",
+        "mouza": "Hajiganj",
+        "jl_no": "21",
+        "khatian_type": "RS",
+        "land_type": "নাল / ভিটি",
+        "district": "Chandpur",
+        "declared_area": "0.10 Acre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              90.6631,
+              23.2321
+            ],
+            [
+              90.6651,
+              23.2321
+            ],
+            [
+              90.6651,
+              23.234099999999998
+            ],
+            [
+              90.6631,
+              23.234099999999998
+            ],
+            [
+              90.6631,
+              23.2321
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "plot_no": "142",
+        "khatian_no": "2142",
+        "owner_name": "Mahatab Uddin",
+        "owner_name_bn": "মাহাতাব উদ্দিন",
+        "mouza": "Hajiganj",
+        "jl_no": "21",
+        "khatian_type": "RS",
+        "land_type": "নাল / ভিটি",
+        "district": "Chandpur",
+        "declared_area": "0.15 Acre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              90.6641,
+              23.2331
+            ],
+            [
+              90.6661,
+              23.2331
+            ],
+            [
+              90.6661,
+              23.2351
+            ],
+            [
+              90.6641,
+              23.2351
+            ],
+            [
+              90.6641,
+              23.2331
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "plot_no": "143",
+        "khatian_no": "2143",
+        "owner_name": "Mahatab Uddin",
+        "owner_name_bn": "মাহাতাব উদ্দিন",
+        "mouza": "Dighinala",
+        "jl_no": "22",
+        "khatian_type": "RS",
+        "land_type": "নাল / ভিটি",
+        "district": "Khagrachhari",
+        "declared_area": "0.10 Acre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              91.9847,
+              23.1192
+            ],
+            [
+              91.9867,
+              23.1192
+            ],
+            [
+              91.9867,
+              23.121199999999998
+            ],
+            [
+              91.9847,
+              23.121199999999998
+            ],
+            [
+              91.9847,
+              23.1192
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "plot_no": "144",
+        "khatian_no": "2144",
+        "owner_name": "Sultan Mahmud",
+        "owner_name_bn": "সুলতান মাহমুদ",
+        "mouza": "Dighinala",
+        "jl_no": "22",
+        "khatian_type": "RS",
+        "land_type": "নাল / ভিটি",
+        "district": "Khagrachhari",
+        "declared_area": "0.15 Acre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              91.98570000000001,
+              23.1202
+            ],
+            [
+              91.9877,
+              23.1202
+            ],
+            [
+              91.9877,
+              23.1222
+            ],
+            [
+              91.98570000000001,
+              23.1222
+            ],
+            [
+              91.98570000000001,
+              23.1202
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "plot_no": "145",
+        "khatian_no": "2145",
+        "owner_name": "Sultan Mahmud",
+        "owner_name_bn": "সুলতান মাহমুদ",
+        "mouza": "Kaptai",
+        "jl_no": "23",
+        "khatian_type": "RS",
+        "land_type": "নাল / ভিটি",
+        "district": "Rangamati",
+        "declared_area": "0.10 Acre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              92.2184,
+              22.5011
+            ],
+            [
+              92.2204,
+              22.5011
+            ],
+            [
+              92.2204,
+              22.5031
+            ],
+            [
+              92.2184,
+              22.5031
+            ],
+            [
+              92.2184,
+              22.5011
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "plot_no": "146",
+        "khatian_no": "2146",
+        "owner_name": "Nazmul Islam",
+        "owner_name_bn": "নাজমুল ইসলাম",
+        "mouza": "Kaptai",
+        "jl_no": "23",
+        "khatian_type": "RS",
+        "land_type": "নাল / ভিটি",
+        "district": "Rangamati",
+        "declared_area": "0.15 Acre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              92.21940000000001,
+              22.502100000000002
+            ],
+            [
+              92.2214,
+              22.502100000000002
+            ],
+            [
+              92.2214,
+              22.5041
+            ],
+            [
+              92.21940000000001,
+              22.5041
+            ],
+            [
+              92.21940000000001,
+              22.502100000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "plot_no": "147",
+        "khatian_no": "2147",
+        "owner_name": "Nazmul Islam",
+        "owner_name_bn": "নাজমুল ইসলাম",
+        "mouza": "Thanchi",
+        "jl_no": "24",
+        "khatian_type": "RS",
+        "land_type": "নাল / ভিটি",
+        "district": "Bandarban",
+        "declared_area": "0.10 Acre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              92.3686,
+              21.8311
+            ],
+            [
+              92.3706,
+              21.8311
+            ],
+            [
+              92.3706,
+              21.833099999999998
+            ],
+            [
+              92.3686,
+              21.833099999999998
+            ],
+            [
+              92.3686,
+              21.8311
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "plot_no": "148",
+        "khatian_no": "2148",
+        "owner_name": "Abdul Karim",
+        "owner_name_bn": "আব্দুল করিম",
+        "mouza": "Thanchi",
+        "jl_no": "24",
+        "khatian_type": "RS",
+        "land_type": "নাল / ভিটি",
+        "district": "Bandarban",
+        "declared_area": "0.15 Acre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              92.3696,
+              21.8321
+            ],
+            [
+              92.3716,
+              21.8321
+            ],
+            [
+              92.3716,
+              21.8341
+            ],
+            [
+              92.3696,
+              21.8341
+            ],
+            [
+              92.3696,
+              21.8321
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "plot_no": "149",
+        "khatian_no": "2149",
+        "owner_name": "Abdul Karim",
+        "owner_name_bn": "আব্দুল করিম",
+        "mouza": "Boalia",
+        "jl_no": "25",
+        "khatian_type": "RS",
+        "land_type": "নাল / ভিটি",
+        "district": "Rajshahi",
+        "declared_area": "0.10 Acre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              88.6042,
+              24.3745
+            ],
+            [
+              88.6062,
+              24.3745
+            ],
+            [
+              88.6062,
+              24.3765
+            ],
+            [
+              88.6042,
+              24.3765
+            ],
+            [
+              88.6042,
+              24.3745
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "plot_no": "150",
+        "khatian_no": "2150",
+        "owner_name": "Rahima Begum",
+        "owner_name_bn": "রহিমা বেগম",
+        "mouza": "Boalia",
+        "jl_no": "25",
+        "khatian_type": "RS",
+        "land_type": "নাল / ভিটি",
+        "district": "Rajshahi",
+        "declared_area": "0.15 Acre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              88.60520000000001,
+              24.375500000000002
+            ],
+            [
+              88.6072,
+              24.375500000000002
+            ],
+            [
+              88.6072,
+              24.3775
+            ],
+            [
+              88.60520000000001,
+              24.3775
+            ],
+            [
+              88.60520000000001,
+              24.375500000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "plot_no": "151",
+        "khatian_no": "2151",
+        "owner_name": "Rahima Begum",
+        "owner_name_bn": "রহিমা বেগম",
+        "mouza": "Sherpur",
+        "jl_no": "26",
+        "khatian_type": "RS",
+        "land_type": "নাল / ভিটি",
+        "district": "Bogra",
+        "declared_area": "0.10 Acre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              89.39,
+              24.67
+            ],
+            [
+              89.392,
+              24.67
+            ],
+            [
+              89.392,
+              24.672
+            ],
+            [
+              89.39,
+              24.672
+            ],
+            [
+              89.39,
+              24.67
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "plot_no": "152",
+        "khatian_no": "2152",
+        "owner_name": "Kamal Hossain",
+        "owner_name_bn": "কামাল হোসেন",
+        "mouza": "Sherpur",
+        "jl_no": "26",
+        "khatian_type": "RS",
+        "land_type": "নাল / ভিটি",
+        "district": "Bogra",
+        "declared_area": "0.15 Acre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              89.391,
+              24.671000000000003
+            ],
+            [
+              89.393,
+              24.671000000000003
+            ],
+            [
+              89.393,
+              24.673000000000002
+            ],
+            [
+              89.391,
+              24.673000000000002
+            ],
+            [
+              89.391,
+              24.671000000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "plot_no": "153",
+        "khatian_no": "2153",
+        "owner_name": "Kamal Hossain",
+        "owner_name_bn": "কামাল হোসেন",
+        "mouza": "Ishwardi",
+        "jl_no": "27",
+        "khatian_type": "RS",
+        "land_type": "নাল / ভিটি",
+        "district": "Pabna",
+        "declared_area": "0.10 Acre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              89.0719,
+              24.1531
+            ],
+            [
+              89.0739,
+              24.1531
+            ],
+            [
+              89.0739,
+              24.155099999999997
+            ],
+            [
+              89.0719,
+              24.155099999999997
+            ],
+            [
+              89.0719,
+              24.1531
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "plot_no": "154",
+        "khatian_no": "2154",
+        "owner_name": "Ekramul Haq",
+        "owner_name_bn": "একরামুল হক",
+        "mouza": "Ishwardi",
+        "jl_no": "27",
+        "khatian_type": "RS",
+        "land_type": "নাল / ভিটি",
+        "district": "Pabna",
+        "declared_area": "0.15 Acre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              89.0729,
+              24.1541
+            ],
+            [
+              89.0749,
+              24.1541
+            ],
+            [
+              89.0749,
+              24.1561
+            ],
+            [
+              89.0729,
+              24.1561
+            ],
+            [
+              89.0729,
+              24.1541
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "plot_no": "155",
+        "khatian_no": "2155",
+        "owner_name": "Ekramul Haq",
+        "owner_name_bn": "একরামুল হক",
+        "mouza": "Ullapara",
+        "jl_no": "28",
+        "khatian_type": "RS",
+        "land_type": "নাল / ভিটি",
+        "district": "Sirajganj",
+        "declared_area": "0.10 Acre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              89.5684,
+              24.319
+            ],
+            [
+              89.57039999999999,
+              24.319
+            ],
+            [
+              89.57039999999999,
+              24.320999999999998
+            ],
+            [
+              89.5684,
+              24.320999999999998
+            ],
+            [
+              89.5684,
+              24.319
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "plot_no": "156",
+        "khatian_no": "2156",
+        "owner_name": "Absar Ali",
+        "owner_name_bn": "আবছার আলী",
+        "mouza": "Ullapara",
+        "jl_no": "28",
+        "khatian_type": "RS",
+        "land_type": "নাল / ভিটি",
+        "district": "Sirajganj",
+        "declared_area": "0.15 Acre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              89.5694,
+              24.32
+            ],
+            [
+              89.5714,
+              24.32
+            ],
+            [
+              89.5714,
+              24.322
+            ],
+            [
+              89.5694,
+              24.322
+            ],
+            [
+              89.5694,
+              24.32
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "plot_no": "157",
+        "khatian_no": "2157",
+        "owner_name": "Absar Ali",
+        "owner_name_bn": "আবছার আলী",
+        "mouza": "Dhamoirhat",
+        "jl_no": "29",
+        "khatian_type": "RS",
+        "land_type": "নাল / ভিটি",
+        "district": "Naogaon",
+        "declared_area": "0.10 Acre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              88.8582,
+              25.0019
+            ],
+            [
+              88.86019999999999,
+              25.0019
+            ],
+            [
+              88.86019999999999,
+              25.003899999999998
+            ],
+            [
+              88.8582,
+              25.003899999999998
+            ],
+            [
+              88.8582,
+              25.0019
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "plot_no": "158",
+        "khatian_no": "2158",
+        "owner_name": "Mahatab Uddin",
+        "owner_name_bn": "মাহাতাব উদ্দিন",
+        "mouza": "Dhamoirhat",
+        "jl_no": "29",
+        "khatian_type": "RS",
+        "land_type": "নাল / ভিটি",
+        "district": "Naogaon",
+        "declared_area": "0.15 Acre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              88.8592,
+              25.0029
+            ],
+            [
+              88.8612,
+              25.0029
+            ],
+            [
+              88.8612,
+              25.0049
+            ],
+            [
+              88.8592,
+              25.0049
+            ],
+            [
+              88.8592,
+              25.0029
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "plot_no": "159",
+        "khatian_no": "2159",
+        "owner_name": "Mahatab Uddin",
+        "owner_name_bn": "মাহাতাব উদ্দিন",
+        "mouza": "Baraigram",
+        "jl_no": "30",
+        "khatian_type": "RS",
+        "land_type": "নাল / ভিটি",
+        "district": "Natore",
+        "declared_area": "0.10 Acre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              89.1706,
+              24.3039
+            ],
+            [
+              89.17259999999999,
+              24.3039
+            ],
+            [
+              89.17259999999999,
+              24.305899999999998
+            ],
+            [
+              89.1706,
+              24.305899999999998
+            ],
+            [
+              89.1706,
+              24.3039
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "plot_no": "160",
+        "khatian_no": "2160",
+        "owner_name": "Sultan Mahmud",
+        "owner_name_bn": "সুলতান মাহমুদ",
+        "mouza": "Baraigram",
+        "jl_no": "30",
+        "khatian_type": "RS",
+        "land_type": "নাল / ভিটি",
+        "district": "Natore",
+        "declared_area": "0.15 Acre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              89.1716,
+              24.3049
+            ],
+            [
+              89.1736,
+              24.3049
+            ],
+            [
+              89.1736,
+              24.3069
+            ],
+            [
+              89.1716,
+              24.3069
+            ],
+            [
+              89.1716,
+              24.3049
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "plot_no": "161",
+        "khatian_no": "2161",
+        "owner_name": "Sultan Mahmud",
+        "owner_name_bn": "সুলতান মাহমুদ",
+        "mouza": "Shibganj",
+        "jl_no": "31",
+        "khatian_type": "RS",
+        "land_type": "নাল / ভিটি",
+        "district": "Chapai Nawabganj",
+        "declared_area": "0.10 Acre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              88.1632,
+              24.6853
+            ],
+            [
+              88.1652,
+              24.6853
+            ],
+            [
+              88.1652,
+              24.6873
+            ],
+            [
+              88.1632,
+              24.6873
+            ],
+            [
+              88.1632,
+              24.6853
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "plot_no": "162",
+        "khatian_no": "2162",
+        "owner_name": "Nazmul Islam",
+        "owner_name_bn": "নাজমুল ইসলাম",
+        "mouza": "Shibganj",
+        "jl_no": "31",
+        "khatian_type": "RS",
+        "land_type": "নাল / ভিটি",
+        "district": "Chapai Nawabganj",
+        "declared_area": "0.15 Acre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              88.16420000000001,
+              24.686300000000003
+            ],
+            [
+              88.1662,
+              24.686300000000003
+            ],
+            [
+              88.1662,
+              24.6883
+            ],
+            [
+              88.16420000000001,
+              24.6883
+            ],
+            [
+              88.16420000000001,
+              24.686300000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "plot_no": "163",
+        "khatian_no": "2163",
+        "owner_name": "Nazmul Islam",
+        "owner_name_bn": "নাজমুল ইসলাম",
+        "mouza": "Akkelpur",
+        "jl_no": "32",
+        "khatian_type": "RS",
+        "land_type": "নাল / ভিটি",
+        "district": "Joypurhat",
+        "declared_area": "0.10 Acre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              89.0227,
+              25.0315
+            ],
+            [
+              89.0247,
+              25.0315
+            ],
+            [
+              89.0247,
+              25.0335
+            ],
+            [
+              89.0227,
+              25.0335
+            ],
+            [
+              89.0227,
+              25.0315
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "plot_no": "164",
+        "khatian_no": "2164",
+        "owner_name": "Abdul Karim",
+        "owner_name_bn": "আব্দুল করিম",
+        "mouza": "Akkelpur",
+        "jl_no": "32",
+        "khatian_type": "RS",
+        "land_type": "নাল / ভিটি",
+        "district": "Joypurhat",
+        "declared_area": "0.15 Acre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              89.0237,
+              25.032500000000002
+            ],
+            [
+              89.0257,
+              25.032500000000002
+            ],
+            [
+              89.0257,
+              25.0345
+            ],
+            [
+              89.0237,
+              25.0345
+            ],
+            [
+              89.0237,
+              25.032500000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "plot_no": "165",
+        "khatian_no": "2165",
+        "owner_name": "Abdul Karim",
+        "owner_name_bn": "আব্দুল করিম",
+        "mouza": "Khalishpur",
+        "jl_no": "33",
+        "khatian_type": "RS",
+        "land_type": "নাল / ভিটি",
+        "district": "Khulna",
+        "declared_area": "0.10 Acre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              89.5403,
+              22.8456
+            ],
+            [
+              89.5423,
+              22.8456
+            ],
+            [
+              89.5423,
+              22.8476
+            ],
+            [
+              89.5403,
+              22.8476
+            ],
+            [
+              89.5403,
+              22.8456
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "plot_no": "166",
+        "khatian_no": "2166",
+        "owner_name": "Rahima Begum",
+        "owner_name_bn": "রহিমা বেগম",
+        "mouza": "Khalishpur",
+        "jl_no": "33",
+        "khatian_type": "RS",
+        "land_type": "নাল / ভিটি",
+        "district": "Khulna",
+        "declared_area": "0.15 Acre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              89.5413,
+              22.846600000000002
+            ],
+            [
+              89.5433,
+              22.846600000000002
+            ],
+            [
+              89.5433,
+              22.8486
+            ],
+            [
+              89.5413,
+              22.8486
+            ],
+            [
+              89.5413,
+              22.846600000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "plot_no": "167",
+        "khatian_no": "2167",
+        "owner_name": "Rahima Begum",
+        "owner_name_bn": "রহিমা বেগম",
+        "mouza": "Jhikargachha",
+        "jl_no": "34",
+        "khatian_type": "RS",
+        "land_type": "নাল / ভিটি",
+        "district": "Jashore",
+        "declared_area": "0.10 Acre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              89.1306,
+              23.1023
+            ],
+            [
+              89.1326,
+              23.1023
+            ],
+            [
+              89.1326,
+              23.1043
+            ],
+            [
+              89.1306,
+              23.1043
+            ],
+            [
+              89.1306,
+              23.1023
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "plot_no": "168",
+        "khatian_no": "2168",
+        "owner_name": "Kamal Hossain",
+        "owner_name_bn": "কামাল হোসেন",
+        "mouza": "Jhikargachha",
+        "jl_no": "34",
+        "khatian_type": "RS",
+        "land_type": "নাল / ভিটি",
+        "district": "Jashore",
+        "declared_area": "0.15 Acre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              89.1316,
+              23.1033
+            ],
+            [
+              89.1336,
+              23.1033
+            ],
+            [
+              89.1336,
+              23.1053
+            ],
+            [
+              89.1316,
+              23.1053
+            ],
+            [
+              89.1316,
+              23.1033
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "plot_no": "169",
+        "khatian_no": "2169",
+        "owner_name": "Kamal Hossain",
+        "owner_name_bn": "কামাল হোসেন",
+        "mouza": "Bheramara",
+        "jl_no": "35",
+        "khatian_type": "RS",
+        "land_type": "নাল / ভিটি",
+        "district": "Kushtia",
+        "declared_area": "0.10 Acre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              88.9926,
+              24.0194
+            ],
+            [
+              88.99459999999999,
+              24.0194
+            ],
+            [
+              88.99459999999999,
+              24.0214
+            ],
+            [
+              88.9926,
+              24.0214
+            ],
+            [
+              88.9926,
+              24.0194
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "plot_no": "170",
+        "khatian_no": "2170",
+        "owner_name": "Ekramul Haq",
+        "owner_name_bn": "একরামুল হক",
+        "mouza": "Bheramara",
+        "jl_no": "35",
+        "khatian_type": "RS",
+        "land_type": "নাল / ভিটি",
+        "district": "Kushtia",
+        "declared_area": "0.15 Acre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              88.9936,
+              24.020400000000002
+            ],
+            [
+              88.9956,
+              24.020400000000002
+            ],
+            [
+              88.9956,
+              24.0224
+            ],
+            [
+              88.9936,
+              24.0224
+            ],
+            [
+              88.9936,
+              24.020400000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "plot_no": "171",
+        "khatian_no": "2171",
+        "owner_name": "Ekramul Haq",
+        "owner_name_bn": "একরামুল হক",
+        "mouza": "Kalaroa",
+        "jl_no": "36",
+        "khatian_type": "RS",
+        "land_type": "নাল / ভিটি",
+        "district": "Satkhira",
+        "declared_area": "0.10 Acre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              89.0412,
+              22.8762
+            ],
+            [
+              89.0432,
+              22.8762
+            ],
+            [
+              89.0432,
+              22.8782
+            ],
+            [
+              89.0412,
+              22.8782
+            ],
+            [
+              89.0412,
+              22.8762
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "plot_no": "172",
+        "khatian_no": "2172",
+        "owner_name": "Absar Ali",
+        "owner_name_bn": "আবছার আলী",
+        "mouza": "Kalaroa",
+        "jl_no": "36",
+        "khatian_type": "RS",
+        "land_type": "নাল / ভিটি",
+        "district": "Satkhira",
+        "declared_area": "0.15 Acre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              89.04220000000001,
+              22.877200000000002
+            ],
+            [
+              89.0442,
+              22.877200000000002
+            ],
+            [
+              89.0442,
+              22.8792
+            ],
+            [
+              89.04220000000001,
+              22.8792
+            ],
+            [
+              89.04220000000001,
+              22.877200000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "plot_no": "173",
+        "khatian_no": "2173",
+        "owner_name": "Absar Ali",
+        "owner_name_bn": "আবছার আলী",
+        "mouza": "Mongla",
+        "jl_no": "37",
+        "khatian_type": "RS",
+        "land_type": "নাল / ভিটি",
+        "district": "Bagerhat",
+        "declared_area": "0.10 Acre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              89.6056,
+              22.4831
+            ],
+            [
+              89.60759999999999,
+              22.4831
+            ],
+            [
+              89.60759999999999,
+              22.4851
+            ],
+            [
+              89.6056,
+              22.4851
+            ],
+            [
+              89.6056,
+              22.4831
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "plot_no": "174",
+        "khatian_no": "2174",
+        "owner_name": "Mahatab Uddin",
+        "owner_name_bn": "মাহাতাব উদ্দিন",
+        "mouza": "Mongla",
+        "jl_no": "37",
+        "khatian_type": "RS",
+        "land_type": "নাল / ভিটি",
+        "district": "Bagerhat",
+        "declared_area": "0.15 Acre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              89.6066,
+              22.4841
+            ],
+            [
+              89.6086,
+              22.4841
+            ],
+            [
+              89.6086,
+              22.4861
+            ],
+            [
+              89.6066,
+              22.4861
+            ],
+            [
+              89.6066,
+              22.4841
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "plot_no": "175",
+        "khatian_no": "2175",
+        "owner_name": "Mahatab Uddin",
+        "owner_name_bn": "মাহাতাব উদ্দিন",
+        "mouza": "Kaliganj",
+        "jl_no": "38",
+        "khatian_type": "RS",
+        "land_type": "নাল / ভিটি",
+        "district": "Jhenaidah",
+        "declared_area": "0.10 Acre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              89.1384,
+              23.4089
+            ],
+            [
+              89.1404,
+              23.4089
+            ],
+            [
+              89.1404,
+              23.410899999999998
+            ],
+            [
+              89.1384,
+              23.410899999999998
+            ],
+            [
+              89.1384,
+              23.4089
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "plot_no": "176",
+        "khatian_no": "2176",
+        "owner_name": "Sultan Mahmud",
+        "owner_name_bn": "সুলতান মাহমুদ",
+        "mouza": "Kaliganj",
+        "jl_no": "38",
+        "khatian_type": "RS",
+        "land_type": "নাল / ভিটি",
+        "district": "Jhenaidah",
+        "declared_area": "0.15 Acre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              89.13940000000001,
+              23.4099
+            ],
+            [
+              89.1414,
+              23.4099
+            ],
+            [
+              89.1414,
+              23.4119
+            ],
+            [
+              89.13940000000001,
+              23.4119
+            ],
+            [
+              89.13940000000001,
+              23.4099
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "plot_no": "177",
+        "khatian_no": "2177",
+        "owner_name": "Sultan Mahmud",
+        "owner_name_bn": "সুলতান মাহমুদ",
+        "mouza": "Damurhuda",
+        "jl_no": "39",
+        "khatian_type": "RS",
+        "land_type": "নাল / ভিটি",
+        "district": "Chuadanga",
+        "declared_area": "0.10 Acre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              88.8413,
+              23.6186
+            ],
+            [
+              88.8433,
+              23.6186
+            ],
+            [
+              88.8433,
+              23.6206
+            ],
+            [
+              88.8413,
+              23.6206
+            ],
+            [
+              88.8413,
+              23.6186
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "plot_no": "178",
+        "khatian_no": "2178",
+        "owner_name": "Nazmul Islam",
+        "owner_name_bn": "নাজমুল ইসলাম",
+        "mouza": "Damurhuda",
+        "jl_no": "39",
+        "khatian_type": "RS",
+        "land_type": "নাল / ভিটি",
+        "district": "Chuadanga",
+        "declared_area": "0.15 Acre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              88.84230000000001,
+              23.619600000000002
+            ],
+            [
+              88.8443,
+              23.619600000000002
+            ],
+            [
+              88.8443,
+              23.6216
+            ],
+            [
+              88.84230000000001,
+              23.6216
+            ],
+            [
+              88.84230000000001,
+              23.619600000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "plot_no": "179",
+        "khatian_no": "2179",
+        "owner_name": "Nazmul Islam",
+        "owner_name_bn": "নাজমুল ইসলাম",
+        "mouza": "Gangni",
+        "jl_no": "40",
+        "khatian_type": "RS",
+        "land_type": "নাল / ভিটি",
+        "district": "Meherpur",
+        "declared_area": "0.10 Acre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              88.6756,
+              23.8344
+            ],
+            [
+              88.6776,
+              23.8344
+            ],
+            [
+              88.6776,
+              23.836399999999998
+            ],
+            [
+              88.6756,
+              23.836399999999998
+            ],
+            [
+              88.6756,
+              23.8344
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "plot_no": "180",
+        "khatian_no": "2180",
+        "owner_name": "Abdul Karim",
+        "owner_name_bn": "আব্দুল করিম",
+        "mouza": "Gangni",
+        "jl_no": "40",
+        "khatian_type": "RS",
+        "land_type": "নাল / ভিটি",
+        "district": "Meherpur",
+        "declared_area": "0.15 Acre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              88.67660000000001,
+              23.8354
+            ],
+            [
+              88.6786,
+              23.8354
+            ],
+            [
+              88.6786,
+              23.8374
+            ],
+            [
+              88.67660000000001,
+              23.8374
+            ],
+            [
+              88.67660000000001,
+              23.8354
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "plot_no": "181",
+        "khatian_no": "2181",
+        "owner_name": "Abdul Karim",
+        "owner_name_bn": "আব্দুল করিম",
+        "mouza": "Lohagara",
+        "jl_no": "41",
+        "khatian_type": "RS",
+        "land_type": "নাল / ভিটি",
+        "district": "Narail",
+        "declared_area": "0.10 Acre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              89.6469,
+              23.1783
+            ],
+            [
+              89.6489,
+              23.1783
+            ],
+            [
+              89.6489,
+              23.1803
+            ],
+            [
+              89.6469,
+              23.1803
+            ],
+            [
+              89.6469,
+              23.1783
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "plot_no": "182",
+        "khatian_no": "2182",
+        "owner_name": "Rahima Begum",
+        "owner_name_bn": "রহিমা বেগম",
+        "mouza": "Lohagara",
+        "jl_no": "41",
+        "khatian_type": "RS",
+        "land_type": "নাল / ভিটি",
+        "district": "Narail",
+        "declared_area": "0.15 Acre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              89.6479,
+              23.1793
+            ],
+            [
+              89.6499,
+              23.1793
+            ],
+            [
+              89.6499,
+              23.1813
+            ],
+            [
+              89.6479,
+              23.1813
+            ],
+            [
+              89.6479,
+              23.1793
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "plot_no": "183",
+        "khatian_no": "2183",
+        "owner_name": "Rahima Begum",
+        "owner_name_bn": "রহিমা বেগম",
+        "mouza": "Shripur",
+        "jl_no": "42",
+        "khatian_type": "RS",
+        "land_type": "নাল / ভিটি",
+        "district": "Magura",
+        "declared_area": "0.10 Acre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              89.4328,
+              23.6022
+            ],
+            [
+              89.4348,
+              23.6022
+            ],
+            [
+              89.4348,
+              23.6042
+            ],
+            [
+              89.4328,
+              23.6042
+            ],
+            [
+              89.4328,
+              23.6022
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "plot_no": "184",
+        "khatian_no": "2184",
+        "owner_name": "Kamal Hossain",
+        "owner_name_bn": "কামাল হোসেন",
+        "mouza": "Shripur",
+        "jl_no": "42",
+        "khatian_type": "RS",
+        "land_type": "নাল / ভিটি",
+        "district": "Magura",
+        "declared_area": "0.15 Acre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              89.4338,
+              23.6032
+            ],
+            [
+              89.4358,
+              23.6032
+            ],
+            [
+              89.4358,
+              23.6052
+            ],
+            [
+              89.4338,
+              23.6052
+            ],
+            [
+              89.4338,
+              23.6032
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "plot_no": "185",
+        "khatian_no": "2185",
+        "owner_name": "Kamal Hossain",
+        "owner_name_bn": "কামাল হোসেন",
+        "mouza": "Agailjhara",
+        "jl_no": "43",
+        "khatian_type": "RS",
+        "land_type": "নাল / ভিটি",
+        "district": "Barishal",
+        "declared_area": "0.10 Acre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              90.3535,
+              22.701
+            ],
+            [
+              90.35549999999999,
+              22.701
+            ],
+            [
+              90.35549999999999,
+              22.703
+            ],
+            [
+              90.3535,
+              22.703
+            ],
+            [
+              90.3535,
+              22.701
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "plot_no": "186",
+        "khatian_no": "2186",
+        "owner_name": "Ekramul Haq",
+        "owner_name_bn": "একরামুল হক",
+        "mouza": "Agailjhara",
+        "jl_no": "43",
+        "khatian_type": "RS",
+        "land_type": "নাল / ভিটি",
+        "district": "Barishal",
+        "declared_area": "0.15 Acre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              90.3545,
+              22.702
+            ],
+            [
+              90.3565,
+              22.702
+            ],
+            [
+              90.3565,
+              22.704
+            ],
+            [
+              90.3545,
+              22.704
+            ],
+            [
+              90.3545,
+              22.702
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "plot_no": "187",
+        "khatian_no": "2187",
+        "owner_name": "Ekramul Haq",
+        "owner_name_bn": "একরামুল হক",
+        "mouza": "Char Fasson",
+        "jl_no": "44",
+        "khatian_type": "RS",
+        "land_type": "নাল / ভিটি",
+        "district": "Bhola",
+        "declared_area": "0.10 Acre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              90.7132,
+              22.1856
+            ],
+            [
+              90.7152,
+              22.1856
+            ],
+            [
+              90.7152,
+              22.1876
+            ],
+            [
+              90.7132,
+              22.1876
+            ],
+            [
+              90.7132,
+              22.1856
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "plot_no": "188",
+        "khatian_no": "2188",
+        "owner_name": "Absar Ali",
+        "owner_name_bn": "আবছার আলী",
+        "mouza": "Char Fasson",
+        "jl_no": "44",
+        "khatian_type": "RS",
+        "land_type": "নাল / ভিটি",
+        "district": "Bhola",
+        "declared_area": "0.15 Acre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              90.7142,
+              22.186600000000002
+            ],
+            [
+              90.7162,
+              22.186600000000002
+            ],
+            [
+              90.7162,
+              22.1886
+            ],
+            [
+              90.7142,
+              22.1886
+            ],
+            [
+              90.7142,
+              22.186600000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "plot_no": "189",
+        "khatian_no": "2189",
+        "owner_name": "Absar Ali",
+        "owner_name_bn": "আবছার আলী",
+        "mouza": "Kuakata",
+        "jl_no": "45",
+        "khatian_type": "RS",
+        "land_type": "নাল / ভিটি",
+        "district": "Patuakhali",
+        "declared_area": "0.10 Acre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              90.1223,
+              21.8211
+            ],
+            [
+              90.12429999999999,
+              21.8211
+            ],
+            [
+              90.12429999999999,
+              21.8231
+            ],
+            [
+              90.1223,
+              21.8231
+            ],
+            [
+              90.1223,
+              21.8211
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "plot_no": "190",
+        "khatian_no": "2190",
+        "owner_name": "Mahatab Uddin",
+        "owner_name_bn": "মাহাতাব উদ্দিন",
+        "mouza": "Kuakata",
+        "jl_no": "45",
+        "khatian_type": "RS",
+        "land_type": "নাল / ভিটি",
+        "district": "Patuakhali",
+        "declared_area": "0.15 Acre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              90.1233,
+              21.822100000000002
+            ],
+            [
+              90.1253,
+              21.822100000000002
+            ],
+            [
+              90.1253,
+              21.8241
+            ],
+            [
+              90.1233,
+              21.8241
+            ],
+            [
+              90.1233,
+              21.822100000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "plot_no": "191",
+        "khatian_no": "2191",
+        "owner_name": "Mahatab Uddin",
+        "owner_name_bn": "মাহাতাব উদ্দিন",
+        "mouza": "Bhandaria",
+        "jl_no": "46",
+        "khatian_type": "RS",
+        "land_type": "নাল / ভিটি",
+        "district": "Pirojpur",
+        "declared_area": "0.10 Acre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              89.9989,
+              22.4883
+            ],
+            [
+              90.0009,
+              22.4883
+            ],
+            [
+              90.0009,
+              22.490299999999998
+            ],
+            [
+              89.9989,
+              22.490299999999998
+            ],
+            [
+              89.9989,
+              22.4883
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "plot_no": "192",
+        "khatian_no": "2192",
+        "owner_name": "Sultan Mahmud",
+        "owner_name_bn": "সুলতান মাহমুদ",
+        "mouza": "Bhandaria",
+        "jl_no": "46",
+        "khatian_type": "RS",
+        "land_type": "নাল / ভিটি",
+        "district": "Pirojpur",
+        "declared_area": "0.15 Acre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              89.99990000000001,
+              22.4893
+            ],
+            [
+              90.0019,
+              22.4893
+            ],
+            [
+              90.0019,
+              22.4913
+            ],
+            [
+              89.99990000000001,
+              22.4913
+            ],
+            [
+              89.99990000000001,
+              22.4893
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "plot_no": "193",
+        "khatian_no": "2193",
+        "owner_name": "Sultan Mahmud",
+        "owner_name_bn": "সুলতান মাহমুদ",
+        "mouza": "Amtali",
+        "jl_no": "47",
+        "khatian_type": "RS",
+        "land_type": "নাল / ভিটি",
+        "district": "Barguna",
+        "declared_area": "0.10 Acre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              90.2289,
+              22.1281
+            ],
+            [
+              90.23089999999999,
+              22.1281
+            ],
+            [
+              90.23089999999999,
+              22.1301
+            ],
+            [
+              90.2289,
+              22.1301
+            ],
+            [
+              90.2289,
+              22.1281
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "plot_no": "194",
+        "khatian_no": "2194",
+        "owner_name": "Nazmul Islam",
+        "owner_name_bn": "নাজমুল ইসলাম",
+        "mouza": "Amtali",
+        "jl_no": "47",
+        "khatian_type": "RS",
+        "land_type": "নাল / ভিটি",
+        "district": "Barguna",
+        "declared_area": "0.15 Acre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              90.2299,
+              22.1291
+            ],
+            [
+              90.2319,
+              22.1291
+            ],
+            [
+              90.2319,
+              22.1311
+            ],
+            [
+              90.2299,
+              22.1311
+            ],
+            [
+              90.2299,
+              22.1291
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "plot_no": "195",
+        "khatian_no": "2195",
+        "owner_name": "Nazmul Islam",
+        "owner_name_bn": "নাজমুল ইসলাম",
+        "mouza": "Nalchity",
+        "jl_no": "48",
+        "khatian_type": "RS",
+        "land_type": "নাল / ভিটি",
+        "district": "Jhalokati",
+        "declared_area": "0.10 Acre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              90.2747,
+              22.6181
+            ],
+            [
+              90.27669999999999,
+              22.6181
+            ],
+            [
+              90.27669999999999,
+              22.620099999999997
+            ],
+            [
+              90.2747,
+              22.620099999999997
+            ],
+            [
+              90.2747,
+              22.6181
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "plot_no": "196",
+        "khatian_no": "2196",
+        "owner_name": "Abdul Karim",
+        "owner_name_bn": "আব্দুল করিম",
+        "mouza": "Nalchity",
+        "jl_no": "48",
+        "khatian_type": "RS",
+        "land_type": "নাল / ভিটি",
+        "district": "Jhalokati",
+        "declared_area": "0.15 Acre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              90.2757,
+              22.6191
+            ],
+            [
+              90.2777,
+              22.6191
+            ],
+            [
+              90.2777,
+              22.6211
+            ],
+            [
+              90.2757,
+              22.6211
+            ],
+            [
+              90.2757,
+              22.6191
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "plot_no": "197",
+        "khatian_no": "2197",
+        "owner_name": "Abdul Karim",
+        "owner_name_bn": "আব্দুল করিম",
+        "mouza": "Zindabazar",
+        "jl_no": "49",
+        "khatian_type": "RS",
+        "land_type": "নাল / ভিটি",
+        "district": "Sylhet",
+        "declared_area": "0.10 Acre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              91.8687,
+              24.8949
+            ],
+            [
+              91.8707,
+              24.8949
+            ],
+            [
+              91.8707,
+              24.8969
+            ],
+            [
+              91.8687,
+              24.8969
+            ],
+            [
+              91.8687,
+              24.8949
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "plot_no": "198",
+        "khatian_no": "2198",
+        "owner_name": "Rahima Begum",
+        "owner_name_bn": "রহিমা বেগম",
+        "mouza": "Zindabazar",
+        "jl_no": "49",
+        "khatian_type": "RS",
+        "land_type": "নাল / ভিটি",
+        "district": "Sylhet",
+        "declared_area": "0.15 Acre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              91.86970000000001,
+              24.8959
+            ],
+            [
+              91.8717,
+              24.8959
+            ],
+            [
+              91.8717,
+              24.8979
+            ],
+            [
+              91.86970000000001,
+              24.8979
+            ],
+            [
+              91.86970000000001,
+              24.8959
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "plot_no": "199",
+        "khatian_no": "2199",
+        "owner_name": "Rahima Begum",
+        "owner_name_bn": "রহিমা বেগম",
+        "mouza": "Sreemangal",
+        "jl_no": "50",
+        "khatian_type": "RS",
+        "land_type": "নাল / ভিটি",
+        "district": "Moulvibazar",
+        "declared_area": "0.10 Acre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              91.7296,
+              24.3065
+            ],
+            [
+              91.7316,
+              24.3065
+            ],
+            [
+              91.7316,
+              24.3085
+            ],
+            [
+              91.7296,
+              24.3085
+            ],
+            [
+              91.7296,
+              24.3065
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "plot_no": "200",
+        "khatian_no": "2200",
+        "owner_name": "Kamal Hossain",
+        "owner_name_bn": "কামাল হোসেন",
+        "mouza": "Sreemangal",
+        "jl_no": "50",
+        "khatian_type": "RS",
+        "land_type": "নাল / ভিটি",
+        "district": "Moulvibazar",
+        "declared_area": "0.15 Acre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              91.73060000000001,
+              24.3075
+            ],
+            [
+              91.7326,
+              24.3075
+            ],
+            [
+              91.7326,
+              24.3095
+            ],
+            [
+              91.73060000000001,
+              24.3095
+            ],
+            [
+              91.73060000000001,
+              24.3075
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "plot_no": "201",
+        "khatian_no": "2201",
+        "owner_name": "Kamal Hossain",
+        "owner_name_bn": "কামাল হোসেন",
+        "mouza": "Madhabpur",
+        "jl_no": "51",
+        "khatian_type": "RS",
+        "land_type": "নাল / ভিটি",
+        "district": "Habiganj",
+        "declared_area": "0.10 Acre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              91.2964,
+              24.0983
+            ],
+            [
+              91.2984,
+              24.0983
+            ],
+            [
+              91.2984,
+              24.100299999999997
+            ],
+            [
+              91.2964,
+              24.100299999999997
+            ],
+            [
+              91.2964,
+              24.0983
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "plot_no": "202",
+        "khatian_no": "2202",
+        "owner_name": "Ekramul Haq",
+        "owner_name_bn": "একরামুল হক",
+        "mouza": "Madhabpur",
+        "jl_no": "51",
+        "khatian_type": "RS",
+        "land_type": "নাল / ভিটি",
+        "district": "Habiganj",
+        "declared_area": "0.15 Acre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              91.29740000000001,
+              24.0993
+            ],
+            [
+              91.2994,
+              24.0993
+            ],
+            [
+              91.2994,
+              24.1013
+            ],
+            [
+              91.29740000000001,
+              24.1013
+            ],
+            [
+              91.29740000000001,
+              24.0993
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "plot_no": "203",
+        "khatian_no": "2203",
+        "owner_name": "Ekramul Haq",
+        "owner_name_bn": "একরামুল হক",
+        "mouza": "Tahirpur",
+        "jl_no": "52",
+        "khatian_type": "RS",
+        "land_type": "নাল / ভিটি",
+        "district": "Sunamganj",
+        "declared_area": "0.10 Acre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              91.1764,
+              25.0933
+            ],
+            [
+              91.1784,
+              25.0933
+            ],
+            [
+              91.1784,
+              25.095299999999998
+            ],
+            [
+              91.1764,
+              25.095299999999998
+            ],
+            [
+              91.1764,
+              25.0933
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "plot_no": "204",
+        "khatian_no": "2204",
+        "owner_name": "Absar Ali",
+        "owner_name_bn": "আবছার আলী",
+        "mouza": "Tahirpur",
+        "jl_no": "52",
+        "khatian_type": "RS",
+        "land_type": "নাল / ভিটি",
+        "district": "Sunamganj",
+        "declared_area": "0.15 Acre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              91.1774,
+              25.0943
+            ],
+            [
+              91.1794,
+              25.0943
+            ],
+            [
+              91.1794,
+              25.0963
+            ],
+            [
+              91.1774,
+              25.0963
+            ],
+            [
+              91.1774,
+              25.0943
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "plot_no": "205",
+        "khatian_no": "2205",
+        "owner_name": "Absar Ali",
+        "owner_name_bn": "আবছার আলী",
+        "mouza": "Pirganj",
+        "jl_no": "53",
+        "khatian_type": "RS",
+        "land_type": "নাল / ভিটি",
+        "district": "Rangpur",
+        "declared_area": "0.10 Acre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              89.2752,
+              25.7439
+            ],
+            [
+              89.2772,
+              25.7439
+            ],
+            [
+              89.2772,
+              25.7459
+            ],
+            [
+              89.2752,
+              25.7459
+            ],
+            [
+              89.2752,
+              25.7439
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "plot_no": "206",
+        "khatian_no": "2206",
+        "owner_name": "Mahatab Uddin",
+        "owner_name_bn": "মাহাতাব উদ্দিন",
+        "mouza": "Pirganj",
+        "jl_no": "53",
+        "khatian_type": "RS",
+        "land_type": "নাল / ভিটি",
+        "district": "Rangpur",
+        "declared_area": "0.15 Acre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              89.2762,
+              25.7449
+            ],
+            [
+              89.2782,
+              25.7449
+            ],
+            [
+              89.2782,
+              25.7469
+            ],
+            [
+              89.2762,
+              25.7469
+            ],
+            [
+              89.2762,
+              25.7449
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "plot_no": "207",
+        "khatian_no": "2207",
+        "owner_name": "Mahatab Uddin",
+        "owner_name_bn": "মাহাতাব উদ্দিন",
+        "mouza": "Chilahati",
+        "jl_no": "54",
+        "khatian_type": "RS",
+        "land_type": "নাল / ভিটি",
+        "district": "Nilphamari",
+        "declared_area": "0.10 Acre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              88.88,
+              26.1
+            ],
+            [
+              88.88199999999999,
+              26.1
+            ],
+            [
+              88.88199999999999,
+              26.102
+            ],
+            [
+              88.88,
+              26.102
+            ],
+            [
+              88.88,
+              26.1
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "plot_no": "208",
+        "khatian_no": "2208",
+        "owner_name": "Sultan Mahmud",
+        "owner_name_bn": "সুলতান মাহমুদ",
+        "mouza": "Chilahati",
+        "jl_no": "54",
+        "khatian_type": "RS",
+        "land_type": "নাল / ভিটি",
+        "district": "Nilphamari",
+        "declared_area": "0.15 Acre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              88.881,
+              26.101000000000003
+            ],
+            [
+              88.883,
+              26.101000000000003
+            ],
+            [
+              88.883,
+              26.103
+            ],
+            [
+              88.881,
+              26.103
+            ],
+            [
+              88.881,
+              26.101000000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "plot_no": "209",
+        "khatian_no": "2209",
+        "owner_name": "Sultan Mahmud",
+        "owner_name_bn": "সুলতান মাহমুদ",
+        "mouza": "Birganj",
+        "jl_no": "55",
+        "khatian_type": "RS",
+        "land_type": "নাল / ভিটি",
+        "district": "Dinajpur",
+        "declared_area": "0.10 Acre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              88.6608,
+              25.8583
+            ],
+            [
+              88.66279999999999,
+              25.8583
+            ],
+            [
+              88.66279999999999,
+              25.8603
+            ],
+            [
+              88.6608,
+              25.8603
+            ],
+            [
+              88.6608,
+              25.8583
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "plot_no": "210",
+        "khatian_no": "2210",
+        "owner_name": "Nazmul Islam",
+        "owner_name_bn": "নাজমুল ইসলাম",
+        "mouza": "Birganj",
+        "jl_no": "55",
+        "khatian_type": "RS",
+        "land_type": "নাল / ভিটি",
+        "district": "Dinajpur",
+        "declared_area": "0.15 Acre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              88.6618,
+              25.8593
+            ],
+            [
+              88.6638,
+              25.8593
+            ],
+            [
+              88.6638,
+              25.8613
+            ],
+            [
+              88.6618,
+              25.8613
+            ],
+            [
+              88.6618,
+              25.8593
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "plot_no": "211",
+        "khatian_no": "2211",
+        "owner_name": "Nazmul Islam",
+        "owner_name_bn": "নাজমুল ইসলাম",
+        "mouza": "Gobindaganj",
+        "jl_no": "56",
+        "khatian_type": "RS",
+        "land_type": "নাল / ভিটি",
+        "district": "Gaibandha",
+        "declared_area": "0.10 Acre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              89.3833,
+              25.1333
+            ],
+            [
+              89.3853,
+              25.1333
+            ],
+            [
+              89.3853,
+              25.135299999999997
+            ],
+            [
+              89.3833,
+              25.135299999999997
+            ],
+            [
+              89.3833,
+              25.1333
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "plot_no": "212",
+        "khatian_no": "2212",
+        "owner_name": "Abdul Karim",
+        "owner_name_bn": "আব্দুল করিম",
+        "mouza": "Gobindaganj",
+        "jl_no": "56",
+        "khatian_type": "RS",
+        "land_type": "নাল / ভিটি",
+        "district": "Gaibandha",
+        "declared_area": "0.15 Acre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              89.38430000000001,
+              25.1343
+            ],
+            [
+              89.3863,
+              25.1343
+            ],
+            [
+              89.3863,
+              25.1363
+            ],
+            [
+              89.38430000000001,
+              25.1363
+            ],
+            [
+              89.38430000000001,
+              25.1343
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "plot_no": "213",
+        "khatian_no": "2213",
+        "owner_name": "Abdul Karim",
+        "owner_name_bn": "আব্দুল করিম",
+        "mouza": "Nageswari",
+        "jl_no": "57",
+        "khatian_type": "RS",
+        "land_type": "নাল / ভিটি",
+        "district": "Kurigram",
+        "declared_area": "0.10 Acre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              89.65,
+              25.9667
+            ],
+            [
+              89.652,
+              25.9667
+            ],
+            [
+              89.652,
+              25.9687
+            ],
+            [
+              89.65,
+              25.9687
+            ],
+            [
+              89.65,
+              25.9667
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "plot_no": "214",
+        "khatian_no": "2214",
+        "owner_name": "Rahima Begum",
+        "owner_name_bn": "রহিমা বেগম",
+        "mouza": "Nageswari",
+        "jl_no": "57",
+        "khatian_type": "RS",
+        "land_type": "নাল / ভিটি",
+        "district": "Kurigram",
+        "declared_area": "0.15 Acre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              89.65100000000001,
+              25.9677
+            ],
+            [
+              89.653,
+              25.9677
+            ],
+            [
+              89.653,
+              25.9697
+            ],
+            [
+              89.65100000000001,
+              25.9697
+            ],
+            [
+              89.65100000000001,
+              25.9677
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "plot_no": "215",
+        "khatian_no": "2215",
+        "owner_name": "Rahima Begum",
+        "owner_name_bn": "রহিমা বেগম",
+        "mouza": "Patgram",
+        "jl_no": "58",
+        "khatian_type": "RS",
+        "land_type": "নাল / ভিটি",
+        "district": "Lalmonirhat",
+        "declared_area": "0.10 Acre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              89.0167,
+              26.35
+            ],
+            [
+              89.0187,
+              26.35
+            ],
+            [
+              89.0187,
+              26.352
+            ],
+            [
+              89.0167,
+              26.352
+            ],
+            [
+              89.0167,
+              26.35
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "plot_no": "216",
+        "khatian_no": "2216",
+        "owner_name": "Kamal Hossain",
+        "owner_name_bn": "কামাল হোসেন",
+        "mouza": "Patgram",
+        "jl_no": "58",
+        "khatian_type": "RS",
+        "land_type": "নাল / ভিটি",
+        "district": "Lalmonirhat",
+        "declared_area": "0.15 Acre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              89.0177,
+              26.351000000000003
+            ],
+            [
+              89.0197,
+              26.351000000000003
+            ],
+            [
+              89.0197,
+              26.353
+            ],
+            [
+              89.0177,
+              26.353
+            ],
+            [
+              89.0177,
+              26.351000000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "plot_no": "217",
+        "khatian_no": "2217",
+        "owner_name": "Kamal Hossain",
+        "owner_name_bn": "কামাল হোসেন",
+        "mouza": "Tetulia",
+        "jl_no": "59",
+        "khatian_type": "RS",
+        "land_type": "নাল / ভিটি",
+        "district": "Panchagarh",
+        "declared_area": "0.10 Acre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              88.35,
+              26.5833
+            ],
+            [
+              88.35199999999999,
+              26.5833
+            ],
+            [
+              88.35199999999999,
+              26.5853
+            ],
+            [
+              88.35,
+              26.5853
+            ],
+            [
+              88.35,
+              26.5833
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "plot_no": "218",
+        "khatian_no": "2218",
+        "owner_name": "Ekramul Haq",
+        "owner_name_bn": "একরামুল হক",
+        "mouza": "Tetulia",
+        "jl_no": "59",
+        "khatian_type": "RS",
+        "land_type": "নাল / ভিটি",
+        "district": "Panchagarh",
+        "declared_area": "0.15 Acre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              88.351,
+              26.584300000000002
+            ],
+            [
+              88.353,
+              26.584300000000002
+            ],
+            [
+              88.353,
+              26.5863
+            ],
+            [
+              88.351,
+              26.5863
+            ],
+            [
+              88.351,
+              26.584300000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "plot_no": "219",
+        "khatian_no": "2219",
+        "owner_name": "Ekramul Haq",
+        "owner_name_bn": "একরামুল হক",
+        "mouza": "Pirganj",
+        "jl_no": "60",
+        "khatian_type": "RS",
+        "land_type": "নাল / ভিটি",
+        "district": "Thakurgaon",
+        "declared_area": "0.10 Acre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              88.3667,
+              25.85
+            ],
+            [
+              88.36869999999999,
+              25.85
+            ],
+            [
+              88.36869999999999,
+              25.852
+            ],
+            [
+              88.3667,
+              25.852
+            ],
+            [
+              88.3667,
+              25.85
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "plot_no": "220",
+        "khatian_no": "2220",
+        "owner_name": "Absar Ali",
+        "owner_name_bn": "আবছার আলী",
+        "mouza": "Pirganj",
+        "jl_no": "60",
+        "khatian_type": "RS",
+        "land_type": "নাল / ভিটি",
+        "district": "Thakurgaon",
+        "declared_area": "0.15 Acre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              88.3677,
+              25.851000000000003
+            ],
+            [
+              88.3697,
+              25.851000000000003
+            ],
+            [
+              88.3697,
+              25.853
+            ],
+            [
+              88.3677,
+              25.853
+            ],
+            [
+              88.3677,
+              25.851000000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "plot_no": "221",
+        "khatian_no": "2221",
+        "owner_name": "Absar Ali",
+        "owner_name_bn": "আবছার আলী",
+        "mouza": "Muktagachha",
+        "jl_no": "61",
+        "khatian_type": "RS",
+        "land_type": "নাল / ভিটি",
+        "district": "Mymensingh",
+        "declared_area": "0.10 Acre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              90.2625,
+              24.7571
+            ],
+            [
+              90.2645,
+              24.7571
+            ],
+            [
+              90.2645,
+              24.7591
+            ],
+            [
+              90.2625,
+              24.7591
+            ],
+            [
+              90.2625,
+              24.7571
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "plot_no": "222",
+        "khatian_no": "2222",
+        "owner_name": "Mahatab Uddin",
+        "owner_name_bn": "মাহাতাব উদ্দিন",
+        "mouza": "Muktagachha",
+        "jl_no": "61",
+        "khatian_type": "RS",
+        "land_type": "নাল / ভিটি",
+        "district": "Mymensingh",
+        "declared_area": "0.15 Acre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              90.26350000000001,
+              24.758100000000002
+            ],
+            [
+              90.2655,
+              24.758100000000002
+            ],
+            [
+              90.2655,
+              24.7601
+            ],
+            [
+              90.26350000000001,
+              24.7601
+            ],
+            [
+              90.26350000000001,
+              24.758100000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "plot_no": "223",
+        "khatian_no": "2223",
+        "owner_name": "Mahatab Uddin",
+        "owner_name_bn": "মাহাতাব উদ্দিন",
+        "mouza": "Sarbari",
+        "jl_no": "62",
+        "khatian_type": "RS",
+        "land_type": "নাল / ভিটি",
+        "district": "Jamalpur",
+        "declared_area": "0.10 Acre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              89.9481,
+              24.9197
+            ],
+            [
+              89.95009999999999,
+              24.9197
+            ],
+            [
+              89.95009999999999,
+              24.921699999999998
+            ],
+            [
+              89.9481,
+              24.921699999999998
+            ],
+            [
+              89.9481,
+              24.9197
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "plot_no": "224",
+        "khatian_no": "2224",
+        "owner_name": "Sultan Mahmud",
+        "owner_name_bn": "সুলতান মাহমুদ",
+        "mouza": "Sarbari",
+        "jl_no": "62",
+        "khatian_type": "RS",
+        "land_type": "নাল / ভিটি",
+        "district": "Jamalpur",
+        "declared_area": "0.15 Acre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              89.9491,
+              24.9207
+            ],
+            [
+              89.9511,
+              24.9207
+            ],
+            [
+              89.9511,
+              24.9227
+            ],
+            [
+              89.9491,
+              24.9227
+            ],
+            [
+              89.9491,
+              24.9207
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "plot_no": "225",
+        "khatian_no": "2225",
+        "owner_name": "Sultan Mahmud",
+        "owner_name_bn": "সুলতান মাহমুদ",
+        "mouza": "Durgapur",
+        "jl_no": "63",
+        "khatian_type": "RS",
+        "land_type": "নাল / ভিটি",
+        "district": "Netrokona",
+        "declared_area": "0.10 Acre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              90.5872,
+              25.1264
+            ],
+            [
+              90.58919999999999,
+              25.1264
+            ],
+            [
+              90.58919999999999,
+              25.1284
+            ],
+            [
+              90.5872,
+              25.1284
+            ],
+            [
+              90.5872,
+              25.1264
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "plot_no": "226",
+        "khatian_no": "2226",
+        "owner_name": "Nazmul Islam",
+        "owner_name_bn": "নাজমুল ইসলাম",
+        "mouza": "Durgapur",
+        "jl_no": "63",
+        "khatian_type": "RS",
+        "land_type": "নাল / ভিটি",
+        "district": "Netrokona",
+        "declared_area": "0.15 Acre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              90.5882,
+              25.1274
+            ],
+            [
+              90.5902,
+              25.1274
+            ],
+            [
+              90.5902,
+              25.1294
+            ],
+            [
+              90.5882,
+              25.1294
+            ],
+            [
+              90.5882,
+              25.1274
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "plot_no": "227",
+        "khatian_no": "2227",
+        "owner_name": "Nazmul Islam",
+        "owner_name_bn": "নাজমুল ইসলাম",
+        "mouza": "Nalitabari",
+        "jl_no": "64",
+        "khatian_type": "RS",
+        "land_type": "নাল / ভিটি",
+        "district": "Sherpur",
+        "declared_area": "0.10 Acre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              90.1833,
+              25.1833
+            ],
+            [
+              90.1853,
+              25.1833
+            ],
+            [
+              90.1853,
+              25.185299999999998
+            ],
+            [
+              90.1833,
+              25.185299999999998
+            ],
+            [
+              90.1833,
+              25.1833
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "plot_no": "228",
+        "khatian_no": "2228",
+        "owner_name": "Abdul Karim",
+        "owner_name_bn": "আব্দুল করিম",
+        "mouza": "Nalitabari",
+        "jl_no": "64",
+        "khatian_type": "RS",
+        "land_type": "নাল / ভিটি",
+        "district": "Sherpur",
+        "declared_area": "0.15 Acre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              90.18430000000001,
+              25.1843
+            ],
+            [
+              90.1863,
+              25.1843
+            ],
+            [
+              90.1863,
+              25.1863
+            ],
+            [
+              90.18430000000001,
+              25.1863
+            ],
+            [
+              90.18430000000001,
+              25.1843
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "plot_no": "3365",
+        "khatian_no": "4232",
+        "owner_name": "Ekramul Haq & Absar Ali",
+        "owner_name_bn": "একরামুল হক ও আবছার আলী",
+        "mouza": "Chilahati",
+        "jl_no": "51",
+        "khatian_type": "RS",
+        "land_type": "সয়লা / ডোবা",
+        "district": "Nilphamari",
+        "declared_area": "0.21 Acre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              88.88,
+              26.1
+            ],
+            [
+              88.88199999999999,
+              26.1
+            ],
+            [
+              88.88199999999999,
+              26.102
+            ],
+            [
+              88.88,
+              26.102
+            ],
+            [
+              88.88,
+              26.1
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "plot_no": "3364",
+        "khatian_no": "4232",
+        "owner_name": "Ekramul Haq & Absar Ali",
+        "owner_name_bn": "একরামুল হক ও আবছার আলী",
+        "mouza": "Chilahati",
+        "jl_no": "51",
+        "khatian_type": "RS",
+        "land_type": "সয়লা / ডোবা",
+        "district": "Nilphamari",
+        "declared_area": "0.21 Acre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              88.881,
+              26.101
+            ],
+            [
+              88.883,
+              26.101
+            ],
+            [
+              88.883,
+              26.102999999999998
+            ],
+            [
+              88.881,
+              26.102999999999998
+            ],
+            [
+              88.881,
+              26.101
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "plot_no": "501",
+        "khatian_no": "1203",
+        "owner_name": "Ekramul Haq & Absar Ali",
+        "owner_name_bn": "একরামুল হক ও আবছার আলী",
+        "mouza": "Mirpur",
+        "jl_no": "51",
+        "khatian_type": "RS",
+        "land_type": "সয়লা / ডোবা",
+        "district": "Dhaka",
+        "declared_area": "0.21 Acre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              90.4125,
+              23.8103
+            ],
+            [
+              90.41449999999999,
+              23.8103
+            ],
+            [
+              90.41449999999999,
+              23.8123
+            ],
+            [
+              90.4125,
+              23.8123
+            ],
+            [
+              90.4125,
+              23.8103
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "plot_no": "502",
+        "khatian_no": "1204",
+        "owner_name": "Ekramul Haq & Absar Ali",
+        "owner_name_bn": "একরামুল হক ও আবছার আলী",
+        "mouza": "Mirpur",
+        "jl_no": "51",
+        "khatian_type": "RS",
+        "land_type": "সয়লা / ডোবা",
+        "district": "Dhaka",
+        "declared_area": "0.21 Acre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              90.4135,
+              23.8115
+            ],
+            [
+              90.4155,
+              23.8115
+            ],
+            [
+              90.4155,
+              23.813499999999998
+            ],
+            [
+              90.4135,
+              23.813499999999998
+            ],
+            [
+              90.4135,
+              23.8115
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
