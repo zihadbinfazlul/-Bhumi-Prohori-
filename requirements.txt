@@ -5,3 +5,9 @@ paddleocr
 paddlepaddle
 opencv-python
 numpy
+cryptography
+google-generativeai
+pandas
+pillow
+pydeck
+pytesseract

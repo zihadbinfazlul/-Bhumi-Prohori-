@@ -5,3 +5,6 @@ __pycache__/
 .env
 .env.*
 !.env.example
+ownership_changes.sqlite3*
+*.geojson.tmp
+*.geojson.restore.tmp
