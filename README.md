@@ -14,7 +14,7 @@
 - **জিআইএস মানচিত্র (GIS Map):** অ্যাপে PyDeck দিয়ে নমুনা রেকর্ডের অবস্থান ও জেনারেট করা পলিগন দেখায়। পলিগনগুলো কৃত্রিম—এগুলো আসল জমির অবস্থান বা সীমানা নয়। `map_engine.py` আলাদা Folium হেলপার।
 - **নিরাপদ মালিকানা পরিবর্তন আবেদন (Ownership Change Workflow):** প্রমাণপত্র আপলোড, এনক্রিপ্টেড স্টোরেজ, কর্মকর্তা কর্তৃক নোটিং এবং পর্যালোচনার ইতিহাস সংরক্ষণ।
 - **দ্বৈত অনুমোদন ব্যবস্থা (Dual Staff Approval):** স্থানীয় নমুনা রেকর্ডে মালিকের নাম বদলাতে দুইজন আলাদা অনুমোদিত কর্মকর্তার অনুমোদন লাগে। যেকোনো একজন প্রত্যাখ্যান করলে আবেদনটি প্রত্যাখ্যাত হয়।
-- **স্থানীয় ডেটাবেজ (Local Database):** আবেদন, রিভিউ নোট ও ফিডব্যাক স্থানীয় SQLite ডেটাবেজে রাখা হয়।
+- **ডেটাবেজ (Database):** লোকাল রান SQLite ব্যবহার করে; Streamlit Cloud-এ স্থায়ীভাবে আবেদন, অ্যাকাউন্ট ও রিভিউ সংরক্ষণের জন্য PostgreSQL connection configure করা যায়।
 - **৬৪ জেলা ডেটা জেনারেটর (64 Districts GeoJSON Generator):** বাংলাদেশের ৬৪ জেলার ৫৪৪টি ADM3 প্রশাসনিক ইউনিটের জন্য কৃত্রিম ম্যাপ ও প্লটের তথ্য জেনারেট করার সুবিধা।
 
 ---
@@ -54,6 +54,7 @@ pip install -r requirements.txt
 ```toml
 GEMINI_API_KEY = "YOUR_GEMINI_API_KEY"
 ownership_document_key = "YOUR_FERNET_KEY"
+DATABASE_URL = "postgresql://USER:PASSWORD@HOST:5432/DATABASE?sslmode=require"
 
 [staff_accounts]
 reviewer_one = "pbkdf2_sha256$600000$<salt-hex>$<password-hash-hex>"
@@ -61,6 +62,10 @@ reviewer_two = "pbkdf2_sha256$600000$<salt-hex>$<password-hash-hex>"
 ```
 
 > **নোট:** পাসওয়ার্ড হ্যাশ এবং এনক্রিপশন কি (Fernet key) তৈরির জন্য [`OWNERSHIP_SECURITY.md`](./OWNERSHIP_SECURITY.md) গাইড অনুসরণ করুন। API key না থাকলে Gemini Vision বন্ধ থাকবে; Tesseract ইনস্টল করা থাকলে লোকাল OCR চলবে।
+
+Satellite basemap-এ Esri World Imagery-এর public tile service ব্যবহার হয়; আলাদা API key বা billing configuration লাগে না। মানচিত্রে imagery attribution দেখানো হয়। Public map service-এর availability ও usage policy প্রযোজ্য।
+
+Streamlit Cloud-এ deploy করলে স্থায়ী ডেটার জন্য managed PostgreSQL service-এ database তৈরি করে তার connection URL `DATABASE_URL` হিসেবে Secrets-এ দিন। `DATABASE_URL` না থাকলে অ্যাপ স্থানীয় `ownership_changes.sqlite3` ফাইল ব্যবহার করবে; Streamlit Cloud-এর স্থানীয় ফাইল স্থায়ী storage নয় এবং restart/redeploy-তে হারাতে পারে। Connection URL-এ provider-প্রদত্ত SSL option রাখুন। পুরোনো SQLite database-এর ডেটা PostgreSQL-এ স্বয়ংক্রিয়ভাবে কপি হয় না।
 
 `.streamlit/secrets.toml` এবং API key কখনো GitHub-এ commit করবেন না। এই রিপোজিটরিতে secrets ফাইলটি `.gitignore`-এ বাদ দেওয়া আছে।
 
@@ -75,16 +80,15 @@ login এবং password reset করতে পারবেন। ফোন ন�
 ফোন নম্বরের মালিকানা যাচাই করে না এবং public production app-এ এভাবে ব্যবহার
 করা নিরাপদ নয়।
 
-Account-এর password hash এবং verification-code metadata স্থানীয়
-`ownership_changes.sqlite3` ডেটাবেজে রাখা হয়; verification code plain text
-হিসেবে database-এ সংরক্ষিত হয় না।
+Account-এর password hash এবং verification-code metadata configured database-এ
+রাখা হয়; verification code plain text হিসেবে database-এ সংরক্ষিত হয় না।
 
 ---
 
 ### সার্চ ইতিহাস
 
 লগইন করা নাগরিক ও কর্মকর্তার নথি যাচাই, জমি খোঁজা এবং খতিয়ান সার্চের ইতিহাস
-SQLite ডেটাবেজে ব্যবহারকারীর পরিচয়, সার্চের ধরন, দাগ/খতিয়ান নম্বর ও সময়সহ
+Configured database-এ ব্যবহারকারীর পরিচয়, সার্চের ধরন, দাগ/খতিয়ান নম্বর ও সময়সহ
 সংরক্ষিত হয়। ব্যবহারকারী সাইডবারে নিজের সার্চ ইতিহাস দেখতে পারবেন;
 অনুমোদিত কর্মকর্তা `Search history` ট্যাবে পরিচয় দিয়ে ফিল্টার করে যেকোনো
 ব্যবহারকারীর ইতিহাস দেখতে পারবেন। আপলোড করা দলিল, OCR-এর সম্পূর্ণ লেখা বা
@@ -92,19 +96,22 @@ SQLite ডেটাবেজে ব্যবহারকারীর পরি�
 
 ## 🏃‍♂️ অ্যাপ চালনা (Run the App)
 
-### ১. ডিফল্ট নমুনা ডেটা দিয়ে রান করতে:
+### ১. Local SQLite দিয়ে অ্যাপ চালাতে:
 ```powershell
+$env:LAND_USE_SQLITE = "1"
 streamlit run app.py
 ```
 
-### ২. পুরো বাংলাদেশের সিন্থেটিক ডেটাসেট তৈরি ও ব্যবহার করতে:
+Local database হবে প্রজেক্ট ফোল্ডারের `ownership_changes.sqlite3` ফাইল।
+`LAND_USE_SQLITE=1` দিলে Secrets-এ `DATABASE_URL` থাকলেও local run SQLite-ই ব্যবহার করবে।
+অ্যাপ প্রথমে `bangladesh_demo_data.geojson` খুঁজবে, যাতে ৬৪ জেলার synthetic
+রেকর্ডে মৌজা ও উপজেলা তথ্য আছে; ফাইলটি না থাকলে `sample_data.geojson` ব্যবহার হবে।
+
+### ২. পুরো বাংলাদেশের সিন্থেটিক ডেটাসেট পুনরায় তৈরি করতে:
 ```powershell
 # ডেটাসেট তৈরি করুন
 python .\generate_64_districts_db.py --plots-per-upazila 10 --roads-per-upazila 2 --output .\bangladesh_demo_data.geojson
 
-# নতুন ডেটাসেট সহ অ্যাপ রান করুন
-$env:LAND_RECORDS_GEOJSON = (Resolve-Path .\bangladesh_demo_data.geojson).Path
-streamlit run app.py
 ```
 
 ---
@@ -127,7 +134,7 @@ streamlit run app.py
 - এটি শুধুমাত্র একটি প্রদর্শনমূলক (Demo) অ্যাপ্লিকেশন। অনুমোদনের পর মালিকের নাম শুধু নির্বাচিত স্থানীয় GeoJSON নমুনা রেকর্ডে বদলায়; সরকারি ভূমি-রেজিস্ট্রিতে কোনো পরিবর্তন হয় না।
 - নাগরিকদের ইমেইল যাচাই কেবল mailbox access নিশ্চিত করে; এটি বাস্তব পরিচয় যাচাই করে না।
 - নাগরিক account-এর password hash করা থাকে; email verification ও reset code-এর মেয়াদ ১০ মিনিট এবং প্রতিটি কোডে সর্বোচ্চ ৫ বার চেষ্টা করা যায়।
-- আপলোড করা প্রমাণপত্র আবেদন অনুমোদিত বা প্রত্যাখ্যাত হলে SQLite-এ এনক্রিপ্টেড ফাইল হিসেবে রাখা কপি মুছে ফেলা হয়। SHA-256 digest ও পর্যালোচনার ইতিহাস থাকে; digest নিজে এনক্রিপ্টেড ডকুমেন্ট নয়।
+- আপলোড করা প্রমাণপত্র আবেদন অনুমোদিত বা প্রত্যাখ্যাত হলে configured database-এ এনক্রিপ্টেড হিসেবে রাখা কপি মুছে ফেলা হয়। SHA-256 digest ও পর্যালোচনার ইতিহাস থাকে; digest নিজে এনক্রিপ্টেড ডকুমেন্ট নয়।
 - আপলোড করা প্রমাণপত্র এনক্রিপ্ট করতে `.streamlit/secrets.toml`-এ Fernet key আবশ্যক। key হারালে খোলা আবেদনের প্রমাণপত্র পড়া যাবে না।
 - OCR ভুল পড়তে পারে এবং এটি আইনি যাচাই নয়। আসল দলিল, পরিচয় ও সরকারি রেকর্ড যাচাই করার দায়িত্ব অনুমোদিত কর্মকর্তার।
 - জেনারেটেড ডেটাসেটের ৫৪৪টি ADM3 ইউনিটে সাবডিস্ট্রিক্টের পাশাপাশি মহানগর থানা ইউনিটও অন্তর্ভুক্ত; এটি সব উপজেলা বা মৌজার সম্পূর্ণ তালিকা নয়। রেকর্ড, মৌজা-লেবেল ও জমির পলিগনগুলো কৃত্রিম।
